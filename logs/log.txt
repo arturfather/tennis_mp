@@ -231,3 +231,152 @@
 2024-10-25 08:20:05.577341 || GROUP ID:527520543|| GROUP_msg: userID:527520543|| nick: @arturfather|| fname:СТОМАТОЛОГИЯ || message:26.10 СБ, 10:00, 📍Школа 1371 🏫
 2024-10-25 08:20:08.798523 || GROUP ID:527520543|| GROUP_msg: userID:527520543|| nick: @arturfather|| fname:СТОМАТОЛОГИЯ || message:❌ Отменить запись
 2024-10-25 08:20:10.186618 || GROUP ID:527520543|| GROUP_msg: userID:527520543|| nick: @arturfather|| fname:СТОМАТОЛОГИЯ || message:26.10 СБ, 10:00, 📍Школа 1371 🏫
+2024-10-25 17:27:37.987768 || GROUP ID:1767317901|| GROUP_msg: userID:1767317901|| nick: @caulfield_player|| fname:Holden Caulfield || message:/start
+2024-10-25 17:27:37.987768 || GROUP ID:1767317901|| GROUP_msg: userID:1767317901|| nick: @caulfield_player|| fname:Holden Caulfield || message:/start
+2024-10-25 17:27:38.395535 || GROUP ID:1767317901|| GROUP_msg: userID:1767317901|| nick: @caulfield_player|| fname:Holden Caulfield || message:/start
+2024-10-25 17:27:42.280185 || GROUP ID:1767317901|| GROUP_msg: userID:1767317901|| nick: @caulfield_player|| fname:Holden Caulfield || message:/start
+2024-10-25 17:28:31.581080 || GROUP ID:527520543|| GROUP_msg: userID:527520543|| nick: @arturfather|| fname:СТОМАТОЛОГИЯ || message:/start
+2024-10-25 17:31:29.197893 || GROUP ID:527520543|| GROUP_msg: userID:527520543|| nick: @arturfather|| fname:СТОМАТОЛОГИЯ || message:ℹ Общая информация
+2024-10-25 17:32:35.386026 || GROUP ID:527520543|| GROUP_msg: userID:527520543|| nick: @arturfather|| fname:СТОМАТОЛОГИЯ || message:/start
+2024-10-25 17:35:33.323684 || GROUP ID:527520543|| GROUP_msg: userID:527520543|| nick: @arturfather|| fname:СТОМАТОЛОГИЯ || message:/start
+2024-10-25 17:35:47.609933 || GROUP ID:527520543|| GROUP_msg: userID:527520543|| nick: @arturfather|| fname:СТОМАТОЛОГИЯ || message:ℹ Общая информация
+2024-10-25 17:36:02.144120 || GROUP ID:527520543|| GROUP_msg: userID:527520543|| nick: @arturfather|| fname:СТОМАТОЛОГИЯ || message:/start
+2024-10-25 17:36:03.342580 || GROUP ID:527520543|| GROUP_msg: userID:527520543|| nick: @arturfather|| fname:СТОМАТОЛОГИЯ || message:/admin
+2024-10-25 17:36:07.989797 || GROUP ID:527520543|| GROUP_msg: userID:527520543|| nick: @arturfather|| fname:СТОМАТОЛОГИЯ || message:add help
+2024-10-25 17:38:03.296382 || GROUP ID:527520543|| GROUP_msg: userID:527520543|| nick: @arturfather|| fname:СТОМАТОЛОГИЯ || message:add
+10.11.2024
+09:00
+120
+10
+0
+Бесплатно
+Мневники
+2024-10-25 17:39:32.640582 || GROUP ID:527520543|| GROUP_msg: userID:527520543|| nick: @arturfather|| fname:СТОМАТОЛОГИЯ || message:/start
+2024-10-25 17:39:35.520619 || GROUP ID:527520543|| GROUP_msg: userID:527520543|| nick: @arturfather|| fname:СТОМАТОЛОГИЯ || message:✍ Записаться на тренировку
+2024-10-25 17:39:37.798980 || GROUP ID:527520543|| GROUP_msg: userID:527520543|| nick: @arturfather|| fname:СТОМАТОЛОГИЯ || message:10.11 ВС, 09:00, 📍Мневники
+2024-10-25 17:40:51.053264 || GROUP ID:527520543|| GROUP_msg: userID:527520543|| nick: @arturfather|| fname:СТОМАТОЛОГИЯ || message:ℹ Общая информация
+2024-10-25 17:40:53.558566 || GROUP ID:527520543|| GROUP_msg: userID:527520543|| nick: @arturfather|| fname:СТОМАТОЛОГИЯ || message:✍ Записаться на тренировку
+2024-10-25 17:40:54.943846 || GROUP ID:527520543|| GROUP_msg: userID:527520543|| nick: @arturfather|| fname:СТОМАТОЛОГИЯ || message:10.11 ВС, 09:00, 📍Мневники
+2024-10-25 17:44:45.221902 || GROUP ID:527520543|| GROUP_msg: userID:527520543|| nick: @arturfather|| fname:СТОМАТОЛОГИЯ || message:/start
+2024-10-25 17:44:49.139308 || GROUP ID:527520543|| GROUP_msg: userID:527520543|| nick: @arturfather|| fname:СТОМАТОЛОГИЯ || message:✍ Записаться на тренировку
+2024-10-25 17:44:50.012699 || GROUP ID:527520543|| GROUP_msg: userID:527520543|| nick: @arturfather|| fname:СТОМАТОЛОГИЯ || message:Главное меню 📱
+2024-10-25 17:44:50.679396 || GROUP ID:527520543|| GROUP_msg: userID:527520543|| nick: @arturfather|| fname:СТОМАТОЛОГИЯ || message:🧐 Текущий список
+2024-10-25 17:44:51.518156 || GROUP ID:527520543|| GROUP_msg: userID:527520543|| nick: @arturfather|| fname:СТОМАТОЛОГИЯ || message:10.11 ВС, 09:00, 📍Мневники
+2024-10-25 17:45:28.952551 || GROUP ID:527520543|| GROUP_msg: userID:527520543|| nick: @arturfather|| fname:СТОМАТОЛОГИЯ || message:🧐 Текущий список
+2024-10-25 17:45:29.985706 || GROUP ID:527520543|| GROUP_msg: userID:527520543|| nick: @arturfather|| fname:СТОМАТОЛОГИЯ || message:10.11 ВС, 09:00, 📍Мневники
+2024-10-25 17:46:06.789195 || GROUP ID:527520543|| GROUP_msg: userID:527520543|| nick: @arturfather|| fname:СТОМАТОЛОГИЯ || message:🧐 Текущий список
+2024-10-25 17:46:07.594499 || GROUP ID:527520543|| GROUP_msg: userID:527520543|| nick: @arturfather|| fname:СТОМАТОЛОГИЯ || message:🧐 Текущий список
+2024-10-25 17:46:12.243747 || GROUP ID:527520543|| GROUP_msg: userID:527520543|| nick: @arturfather|| fname:СТОМАТОЛОГИЯ || message:Главное меню 📱
+2024-10-25 17:46:13.507468 || GROUP ID:527520543|| GROUP_msg: userID:527520543|| nick: @arturfather|| fname:СТОМАТОЛОГИЯ || message:🧐 Текущий список
+2024-10-25 17:46:14.377109 || GROUP ID:527520543|| GROUP_msg: userID:527520543|| nick: @arturfather|| fname:СТОМАТОЛОГИЯ || message:10.11 ВС, 09:00, 📍Мневники
+2024-10-25 17:46:36.054877 || GROUP ID:527520543|| GROUP_msg: userID:527520543|| nick: @arturfather|| fname:СТОМАТОЛОГИЯ || message:🧐 Текущий список
+2024-10-25 17:46:37.590229 || GROUP ID:527520543|| GROUP_msg: userID:527520543|| nick: @arturfather|| fname:СТОМАТОЛОГИЯ || message:10.11 ВС, 09:00, 📍Мневники
+2024-10-25 17:47:30.527545 || GROUP ID:527520543|| GROUP_msg: userID:527520543|| nick: @arturfather|| fname:СТОМАТОЛОГИЯ || message:🧐 Текущий список
+2024-10-25 17:47:30.527545 || GROUP ID:527520543|| GROUP_msg: userID:527520543|| nick: @arturfather|| fname:СТОМАТОЛОГИЯ || message:🧐 Текущий список
+2024-10-25 17:47:32.279393 || GROUP ID:527520543|| GROUP_msg: userID:527520543|| nick: @arturfather|| fname:СТОМАТОЛОГИЯ || message:Главное меню 📱
+2024-10-25 17:47:33.351681 || GROUP ID:527520543|| GROUP_msg: userID:527520543|| nick: @arturfather|| fname:СТОМАТОЛОГИЯ || message:🧐 Текущий список
+2024-10-25 17:47:34.230755 || GROUP ID:527520543|| GROUP_msg: userID:527520543|| nick: @arturfather|| fname:СТОМАТОЛОГИЯ || message:10.11 ВС, 09:00, 📍Мневники
+2024-10-25 17:47:38.364027 || GROUP ID:527520543|| GROUP_msg: userID:527520543|| nick: @arturfather|| fname:СТОМАТОЛОГИЯ || message:❌ Отменить запись
+2024-10-25 17:47:40.880620 || GROUP ID:527520543|| GROUP_msg: userID:527520543|| nick: @arturfather|| fname:СТОМАТОЛОГИЯ || message:Главное меню 📱
+2024-10-25 17:47:53.135606 || GROUP ID:527520543|| GROUP_msg: userID:527520543|| nick: @arturfather|| fname:СТОМАТОЛОГИЯ || message:🗓 Расписание тренировок
+2024-10-25 17:48:00.657887 || GROUP ID:527520543|| GROUP_msg: userID:527520543|| nick: @arturfather|| fname:СТОМАТОЛОГИЯ || message:🧐 Текущий список
+2024-10-25 17:48:01.750309 || GROUP ID:527520543|| GROUP_msg: userID:527520543|| nick: @arturfather|| fname:СТОМАТОЛОГИЯ || message:Главное меню 📱
+2024-10-25 17:48:02.871143 || GROUP ID:527520543|| GROUP_msg: userID:527520543|| nick: @arturfather|| fname:СТОМАТОЛОГИЯ || message:ℹ Общая информация
+2024-10-25 17:48:04.258610 || GROUP ID:527520543|| GROUP_msg: userID:527520543|| nick: @arturfather|| fname:СТОМАТОЛОГИЯ || message:/admin
+2024-10-25 17:48:06.677177 || GROUP ID:527520543|| GROUP_msg: userID:527520543|| nick: @arturfather|| fname:СТОМАТОЛОГИЯ || message:ℹ Общая информация
+2024-10-25 17:48:13.682019 || GROUP ID:527520543|| GROUP_msg: userID:527520543|| nick: @arturfather|| fname:СТОМАТОЛОГИЯ || message:🧐 Текущий список
+2024-10-25 17:48:14.730255 || GROUP ID:527520543|| GROUP_msg: userID:527520543|| nick: @arturfather|| fname:СТОМАТОЛОГИЯ || message:Главное меню 📱
+2024-10-25 17:49:05.024490 || GROUP ID:527520543|| GROUP_msg: userID:527520543|| nick: @arturfather|| fname:СТОМАТОЛОГИЯ || message:/start
+2024-10-25 17:50:30.226997 || GROUP ID:527520543|| GROUP_msg: userID:527520543|| nick: @arturfather|| fname:СТОМАТОЛОГИЯ || message:/start
+2024-10-25 17:51:30.949597 || GROUP ID:527520543|| GROUP_msg: userID:527520543|| nick: @arturfather|| fname:СТОМАТОЛОГИЯ || message:📍 Локация площадок и парковка
+2024-10-25 17:53:21.718497 || GROUP ID:527520543|| GROUP_msg: userID:527520543|| nick: @arturfather|| fname:СТОМАТОЛОГИЯ || message:📍 Локация площадок и парковка
+2024-10-25 17:55:35.434627 || GROUP ID:527520543|| GROUP_msg: userID:527520543|| nick: @arturfather|| fname:СТОМАТОЛОГИЯ || message:📍 Локация площадок и парковка
+2024-10-25 18:06:56.284280 || GROUP ID:527520543|| GROUP_msg: userID:527520543|| nick: @arturfather|| fname:СТОМАТОЛОГИЯ || message:/start
+2024-10-25 18:07:00.067292 || GROUP ID:527520543|| GROUP_msg: userID:527520543|| nick: @arturfather|| fname:СТОМАТОЛОГИЯ || message:ℹ Общая информация
+2024-10-25 18:10:44.295198 || GROUP ID:-1001598215777|| GROUP_msg: userID:1767317901|| nick: @caulfield_player|| fname:Holden Caulfield || message:.
+2024-10-25 18:10:50.407195 || GROUP ID:-1001598215777|| GROUP_msg: userID:156330505|| nick: @dmitrymp3|| fname:Dmitry || message:я однажды видел мячик, и теперь я здесь. Если нужен быстрый заработок в интернете от 100$ в день, пишите мне на основной аккаунт @arturfather
+2024-10-25 18:11:49.434349 || GROUP ID:-1001598215777|| GROUP_msg: userID:1767317901|| nick: @caulfield_player|| fname:Holden Caulfield || message:Бот какой-то
+2024-10-25 18:12:17.749809 || GROUP ID:-1001598215777|| GROUP_msg: userID:1767317901|| nick: @caulfield_player|| fname:Holden Caulfield || message:/start@TT_mp_bot
+2024-10-25 18:12:26.772506 || GROUP ID:-1001598215777|| GROUP_msg: userID:1767317901|| nick: @caulfield_player|| fname:Holden Caulfield || message:/start@TT_mp_bot
+2024-10-25 18:12:54.509223 || GROUP ID:-1001598215777|| GROUP_msg: userID:1767317901|| nick: @caulfield_player|| fname:Holden Caulfield || message:Так, ладно, добавил бота для удобства записи на наши игры и трени)
+2024-10-25 18:13:14.009034 || GROUP ID:-1001598215777|| GROUP_msg: userID:1767317901|| nick: @caulfield_player|| fname:Holden Caulfield || message:/start@TT_mp_bot
+2024-10-25 18:13:17.086173 || GROUP ID:1767317901|| GROUP_msg: userID:1767317901|| nick: @caulfield_player|| fname:Holden Caulfield || message:/start
+2024-10-25 18:13:23.765132 || GROUP ID:1767317901|| GROUP_msg: userID:1767317901|| nick: @caulfield_player|| fname:Holden Caulfield || message:/admin
+2024-10-25 18:13:26.140972 || GROUP ID:1767317901|| GROUP_msg: userID:1767317901|| nick: @caulfield_player|| fname:Holden Caulfield || message:add help
+2024-10-25 18:14:01.487036 || GROUP ID:1767317901|| GROUP_msg: userID:1767317901|| nick: @caulfield_player|| fname:Holden Caulfield || message:add
+24.10.2024
+20:00
+120
+20
+5
+700руб/час/стол
+ГБУ №91
+2024-10-25 18:14:13.023779 || GROUP ID:1767317901|| GROUP_msg: userID:1767317901|| nick: @caulfield_player|| fname:Holden Caulfield || message:add
+31.10.2024
+20:00
+120
+20
+5
+700руб/час/стол
+ГБУ №91
+2024-10-25 18:14:22.118150 || GROUP ID:1767317901|| GROUP_msg: userID:1767317901|| nick: @caulfield_player|| fname:Holden Caulfield || message:✍ Записаться на тренировку
+2024-10-25 18:14:24.469863 || GROUP ID:1767317901|| GROUP_msg: userID:1767317901|| nick: @caulfield_player|| fname:Holden Caulfield || message:31.10 ЧТ, 20:00, 📍ГБУ №91
+2024-10-25 18:14:46.599522 || GROUP ID:1767317901|| GROUP_msg: userID:1767317901|| nick: @caulfield_player|| fname:Holden Caulfield || message:remove help
+2024-10-25 18:14:49.491592 || GROUP ID:1767317901|| GROUP_msg: userID:1767317901|| nick: @caulfield_player|| fname:Holden Caulfield || message:remove 10.11 ВС, 09:00, 📍Мневники
+2024-10-25 18:15:26.194049 || GROUP ID:-1001598215777|| GROUP_msg: userID:527520543|| nick: @arturfather|| fname:СТОМАТОЛОГИЯ || message:записывайтесь через бота, бойтесь, он не кусается))
+2024-10-25 18:16:00.408921 || GROUP ID:527520543|| GROUP_msg: userID:527520543|| nick: @arturfather|| fname:СТОМАТОЛОГИЯ || message:✍ Записаться на тренировку
+2024-10-25 18:16:06.087550 || GROUP ID:527520543|| GROUP_msg: userID:527520543|| nick: @arturfather|| fname:СТОМАТОЛОГИЯ || message:Главное меню 📱
+2024-10-25 18:16:08.595584 || GROUP ID:527520543|| GROUP_msg: userID:527520543|| nick: @arturfather|| fname:СТОМАТОЛОГИЯ || message:/start
+2024-10-25 18:16:17.771508 || GROUP ID:527520543|| GROUP_msg: userID:527520543|| nick: @arturfather|| fname:СТОМАТОЛОГИЯ || message:ℹ Общая информация
+2024-10-25 18:16:20.643447 || GROUP ID:527520543|| GROUP_msg: userID:527520543|| nick: @arturfather|| fname:СТОМАТОЛОГИЯ || message:✍ Записаться на тренировку
+2024-10-25 18:16:29.627915 || GROUP ID:527520543|| GROUP_msg: userID:527520543|| nick: @arturfather|| fname:СТОМАТОЛОГИЯ || message:Главное меню 📱
+2024-10-25 18:16:30.787205 || GROUP ID:527520543|| GROUP_msg: userID:527520543|| nick: @arturfather|| fname:СТОМАТОЛОГИЯ || message:📍 Локация площадок и парковка
+2024-10-25 18:16:32.012998 || GROUP ID:527520543|| GROUP_msg: userID:527520543|| nick: @arturfather|| fname:СТОМАТОЛОГИЯ || message:✍ Записаться на тренировку
+2024-10-25 18:16:43.419577 || GROUP ID:527520543|| GROUP_msg: userID:527520543|| nick: @arturfather|| fname:СТОМАТОЛОГИЯ || message:Главное меню 📱
+2024-10-25 18:16:52.856253 || GROUP ID:527520543|| GROUP_msg: userID:527520543|| nick: @arturfather|| fname:СТОМАТОЛОГИЯ || message:✍ Записаться на тренировку
+2024-10-25 18:16:54.015722 || GROUP ID:527520543|| GROUP_msg: userID:527520543|| nick: @arturfather|| fname:СТОМАТОЛОГИЯ || message:31.10 ЧТ, 20:00, 📍ГБУ №93
+2024-10-25 18:17:00.570933 || GROUP ID:527520543|| GROUP_msg: userID:527520543|| nick: @arturfather|| fname:СТОМАТОЛОГИЯ || message:❌ Отменить запись
+2024-10-25 18:17:07.221804 || GROUP ID:527520543|| GROUP_msg: userID:527520543|| nick: @arturfather|| fname:СТОМАТОЛОГИЯ || message:31.10 ЧТ, 20:00, 📍ГБУ №93
+2024-10-25 18:18:12.182776 || GROUP ID:-1001598215777|| GROUP_msg: userID:1767317901|| nick: @caulfield_player|| fname:Holden Caulfield || message:есть смелые?))
+2024-10-25 18:18:30.694452 || GROUP ID:510267474|| GROUP_msg: userID:510267474|| nick: @aleksandr_gushchin|| fname:Aleksandr Gushchin|| message:/start
+2024-10-25 18:18:37.384536 || GROUP ID:510267474|| GROUP_msg: userID:510267474|| nick: @aleksandr_gushchin|| fname:Aleksandr Gushchin|| message:✍ Записаться на тренировку
+2024-10-25 18:18:40.528254 || GROUP ID:510267474|| GROUP_msg: userID:510267474|| nick: @aleksandr_gushchin|| fname:Aleksandr Gushchin|| message:31.10 ЧТ, 20:00, 📍ГБУ №93
+2024-10-25 18:19:04.285405 || GROUP ID:-1001598215777|| GROUP_msg: userID:527520543|| nick: @arturfather|| fname:СТОМАТОЛОГИЯ || message:ну вот, работает отлично, @Voron_astra  и сообщения не наслаиваются
+2024-10-25 18:19:09.403055 || GROUP ID:-1001598215777|| GROUP_msg: userID:527520543|| nick: @arturfather|| fname:СТОМАТОЛОГИЯ || message:записаться в два клика, не бойтесь)
+2024-10-25 18:19:32.648983 || GROUP ID:-1001598215777|| GROUP_msg: userID:527520543|| nick: @arturfather|| fname:СТОМАТОЛОГИЯ || message:@TT_mp_bot  - нажмите
+2024-10-25 18:21:30.396513 || GROUP ID:156330505|| GROUP_msg: userID:156330505|| nick: @dmitrymp3|| fname:Dmitry || message:/start
+2024-10-25 18:21:32.288519 || GROUP ID:156330505|| GROUP_msg: userID:156330505|| nick: @dmitrymp3|| fname:Dmitry || message:✍ Записаться на тренировку
+2024-10-25 18:21:33.649105 || GROUP ID:156330505|| GROUP_msg: userID:156330505|| nick: @dmitrymp3|| fname:Dmitry || message:31.10 ЧТ, 20:00, 📍ГБУ №93
+2024-10-25 18:21:57.549873 || GROUP ID:527520543|| GROUP_msg: userID:527520543|| nick: @arturfather|| fname:СТОМАТОЛОГИЯ || message:🧐 Текущий список
+2024-10-25 18:21:58.445749 || GROUP ID:527520543|| GROUP_msg: userID:527520543|| nick: @arturfather|| fname:СТОМАТОЛОГИЯ || message:Главное меню 📱
+2024-10-25 18:22:01.184582 || GROUP ID:527520543|| GROUP_msg: userID:527520543|| nick: @arturfather|| fname:СТОМАТОЛОГИЯ || message:🧐 Текущий список
+2024-10-25 18:22:02.417060 || GROUP ID:527520543|| GROUP_msg: userID:527520543|| nick: @arturfather|| fname:СТОМАТОЛОГИЯ || message:31.10 ЧТ, 20:00, 📍ГБУ №93
+2024-10-25 18:22:06.072485 || GROUP ID:527520543|| GROUP_msg: userID:527520543|| nick: @arturfather|| fname:СТОМАТОЛОГИЯ || message:❌ Отменить запись
+2024-10-25 18:22:07.158269 || GROUP ID:527520543|| GROUP_msg: userID:527520543|| nick: @arturfather|| fname:СТОМАТОЛОГИЯ || message:31.10 ЧТ, 20:00, 📍ГБУ №93
+2024-10-25 18:22:10.406037 || GROUP ID:527520543|| GROUP_msg: userID:527520543|| nick: @arturfather|| fname:СТОМАТОЛОГИЯ || message:✍ Записаться на тренировку
+2024-10-25 18:22:11.893615 || GROUP ID:527520543|| GROUP_msg: userID:527520543|| nick: @arturfather|| fname:СТОМАТОЛОГИЯ || message:31.10 ЧТ, 20:00, 📍ГБУ №93
+2024-10-25 18:22:21.860017 || GROUP ID:1767317901|| GROUP_msg: userID:1767317901|| nick: @caulfield_player|| fname:Holden Caulfield || message:/start
+2024-10-25 18:22:23.823271 || GROUP ID:1767317901|| GROUP_msg: userID:1767317901|| nick: @caulfield_player|| fname:Holden Caulfield || message:❌ Отменить запись
+2024-10-25 18:22:26.816400 || GROUP ID:1767317901|| GROUP_msg: userID:1767317901|| nick: @caulfield_player|| fname:Holden Caulfield || message:31.10 ЧТ, 20:00, 📍ГБУ №93
+2024-10-25 18:23:30.052107 || GROUP ID:527520543|| GROUP_msg: userID:527520543|| nick: @arturfather|| fname:СТОМАТОЛОГИЯ || message:ℹ Общая информация
+2024-10-25 18:25:50.981029 || GROUP ID:-1001598215777|| GROUP_msg: userID:510267474|| nick: @aleksandr_gushchin|| fname:Aleksandr Gushchin|| message:Предлагаю тебе сразу через бота сделать оплату, кто не явился оплата конфискуется, меньше отказников будет😂
+2024-10-25 18:33:17.511201 || GROUP ID:300316017|| GROUP_msg: userID:300316017|| nick: @mkpr0|| fname:Mikhail Proskoryakov|| message:/start
+2024-10-25 18:33:30.308789 || GROUP ID:300316017|| GROUP_msg: userID:300316017|| nick: @mkpr0|| fname:Mikhail Proskoryakov|| message:✍ Записаться на тренировку
+2024-10-25 18:33:35.541853 || GROUP ID:300316017|| GROUP_msg: userID:300316017|| nick: @mkpr0|| fname:Mikhail Proskoryakov|| message:31.10 ЧТ, 20:00, 📍ГБУ №93
+2024-10-25 18:33:59.860905 || GROUP ID:300316017|| GROUP_msg: userID:300316017|| nick: @mkpr0|| fname:Mikhail Proskoryakov|| message:🧐 Текущий список
+2024-10-25 18:34:10.779311 || GROUP ID:300316017|| GROUP_msg: userID:300316017|| nick: @mkpr0|| fname:Mikhail Proskoryakov|| message:Главное меню 📱
+2024-10-25 18:38:07.421973 || GROUP ID:1021704917|| GROUP_msg: userID:1021704917|| nick: @Evgenalex|| fname:Evgenalex || message:/start
+2024-10-25 18:38:13.896306 || GROUP ID:1021704917|| GROUP_msg: userID:1021704917|| nick: @Evgenalex|| fname:Evgenalex || message:🗓 Расписание тренировок
+2024-10-25 18:38:22.006609 || GROUP ID:1021704917|| GROUP_msg: userID:1021704917|| nick: @Evgenalex|| fname:Evgenalex || message:✍ Записаться на тренировку
+2024-10-25 18:38:25.933713 || GROUP ID:1021704917|| GROUP_msg: userID:1021704917|| nick: @Evgenalex|| fname:Evgenalex || message:31.10 ЧТ, 20:00, 📍ГБУ №93
+2024-10-25 18:45:19.643926 || GROUP ID:-1001598215777|| GROUP_msg: userID:156330505|| nick: @dmitrymp3|| fname:Dmitry || message:А тут в большой теннис играют?
+2024-10-25 18:45:27.861184 || GROUP ID:-1001598215777|| GROUP_msg: userID:156330505|| nick: @dmitrymp3|| fname:Dmitry || message:Или в падлу?
+2024-10-25 19:00:11.010650 || GROUP ID:-1001598215777|| GROUP_msg: userID:527520543|| nick: @arturfather|| fname:СТОМАТОЛОГИЯ || message:играют
+2024-10-25 19:02:30.708120 || GROUP ID:-1001598215777|| GROUP_msg: userID:527520543|| nick: @arturfather|| fname:СТОМАТОЛОГИЯ || message:@Muzchin @yansurkont @ksyunchik_m @ZELIMHAN_IMRANOV @KsEvg  @Ts_Bad @Serpun999 @rafatik @dani_dkh @mario_ferri26
+2024-10-25 19:02:44.391062 || GROUP ID:527520543|| GROUP_msg: userID:527520543|| nick: @arturfather|| fname:СТОМАТОЛОГИЯ || message:ℹ Общая информация
+2024-10-25 19:02:46.002193 || GROUP ID:527520543|| GROUP_msg: userID:527520543|| nick: @arturfather|| fname:СТОМАТОЛОГИЯ || message:📍 Локация площадок и парковка
+2024-10-25 19:02:51.215259 || GROUP ID:527520543|| GROUP_msg: userID:527520543|| nick: @arturfather|| fname:СТОМАТОЛОГИЯ || message:🗓 Расписание тренировок
+2024-10-25 19:02:54.287948 || GROUP ID:527520543|| GROUP_msg: userID:527520543|| nick: @arturfather|| fname:СТОМАТОЛОГИЯ || message:✍ Записаться на тренировку
+2024-10-25 19:02:55.469988 || GROUP ID:527520543|| GROUP_msg: userID:527520543|| nick: @arturfather|| fname:СТОМАТОЛОГИЯ || message:Главное меню 📱
+2024-10-25 19:02:56.243196 || GROUP ID:527520543|| GROUP_msg: userID:527520543|| nick: @arturfather|| fname:СТОМАТОЛОГИЯ || message:🧐 Текущий список
+2024-10-25 19:02:57.178513 || GROUP ID:527520543|| GROUP_msg: userID:527520543|| nick: @arturfather|| fname:СТОМАТОЛОГИЯ || message:Главное меню 📱
