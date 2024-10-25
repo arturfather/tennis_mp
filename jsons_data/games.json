@@ -1,0 +1,874 @@
+[
+ {
+  "date": "22.09.2024",
+  "desc": "22.09 ВС, 10:00, 📍ШКОЛА МП 1371 🖤",
+  "duration_mins": "120",
+  "id": 1,
+  "location": "ШКОЛА МП 1371 🖤",
+  "max_players": 15,
+  "max_reservations": 6,
+  "players": [
+   [
+    "@ Дмитрий Гирин",
+    482048096,
+    false
+   ],
+   [
+    "@El_ToRo_O Эл🍀 ",
+    530802196,
+    false
+   ],
+   [
+    "@Aitov Аитов ",
+    121282630,
+    false
+   ],
+   [
+    "@kip_gk Илья ",
+    990709189,
+    false
+   ],
+   [
+    "@nikolai199524 Николай Кабанов",
+    43396551,
+    false
+   ],
+   [
+    "@ma7rix 💭Invest ",
+    131033115,
+    false
+   ],
+   [
+    "@PSI177 Сергей Прохоров ",
+    1034925582,
+    false
+   ],
+   [
+    "@HankMoody1405 Сергей Атаманов",
+    886692160,
+    false
+   ],
+   [
+    "@GAALLLLL Александр Галкин",
+    180881211,
+    false
+   ],
+   [
+    "@Tredcryp Макс ",
+    5565323544,
+    false
+   ],
+   [
+    "@ Данил Доника",
+    1034582836,
+    false
+   ],
+   [
+    "@NDI1508 Дима ",
+    1400275753,
+    false
+   ],
+   [
+    "@arturfather СТОМАТОЛОГИЯ ",
+    527520543,
+    false
+   ]
+  ],
+  "price": "Бесплатно",
+  "reserved_players": [],
+  "status": "new",
+  "time": "10:00"
+ },
+ {
+  "date": "28.09.2024",
+  "desc": "28.09 СБ, 10:00, 📍ШКОЛА МП 1371 🖤",
+  "duration_mins": "120",
+  "id": 2,
+  "location": "ШКОЛА МП 1371 🖤",
+  "max_players": 15,
+  "max_reservations": 6,
+  "players": [
+   [
+    "@ Дмитрий Гирин",
+    482048096,
+    false
+   ],
+   [
+    "@Aitov Аитов ",
+    121282630,
+    false
+   ],
+   [
+    "@brussrf Сергей Борисов",
+    6271266217,
+    false
+   ],
+   [
+    "@Muzchin Neon ",
+    2103116788,
+    false
+   ],
+   [
+    "@El_ToRo_O 🤔 Эл 🍀 ",
+    530802196,
+    false
+   ],
+   [
+    "@Tredcryp Макс ",
+    5565323544,
+    false
+   ],
+   [
+    "@PSI177 Сергей Прохоров ",
+    1034925582,
+    false
+   ],
+   [
+    "@Dmitrii1111 Dmitri Dmitri",
+    229522291,
+    false
+   ],
+   [
+    "@ma7rix 💭Invest ",
+    131033115,
+    false
+   ],
+   [
+    "@kip_gk Илья ",
+    990709189,
+    false
+   ],
+   [
+    "@SergeyOdecca Сергей Мулык",
+    503031943,
+    false
+   ],
+   [
+    "@Atem90 Artem ",
+    2004836228,
+    false
+   ],
+   [
+    "@Vs5GRe7 Max ",
+    274691421,
+    false
+   ],
+   [
+    "@EmelyaMSK Emelponk ",
+    1145943990,
+    false
+   ],
+   [
+    "@alexkuzn4 Александр Кузнецов",
+    612342662,
+    false
+   ]
+  ],
+  "price": "Бесплатно",
+  "reserved_players": [
+   [
+    "@ Дмитрий Валов",
+    1844028933,
+    false
+   ]
+  ],
+  "status": "new",
+  "time": "10:00"
+ },
+ {
+  "date": "29.09.2024",
+  "desc": "29.09 ВС, 10:00, 📍ШКОЛА МП 1371 🖤",
+  "duration_mins": "120",
+  "id": 3,
+  "location": "ШКОЛА МП 1371 🖤",
+  "max_players": 15,
+  "max_reservations": 6,
+  "players": [
+   [
+    "@ma7rix 💭Invest ",
+    131033115,
+    false
+   ],
+   [
+    "@Tredcryp Макс ",
+    5565323544,
+    false
+   ],
+   [
+    "@El_ToRo_O 🤔 Эл 🍀 ",
+    530802196,
+    false
+   ],
+   [
+    "@brussrf Сергей Борисов",
+    6271266217,
+    false
+   ],
+   [
+    "@GAALLLLL Александр Галкин",
+    180881211,
+    false
+   ],
+   [
+    "@nikolai199524 Николай Кабанов",
+    43396551,
+    false
+   ],
+   [
+    "@aaaddd_8 Андрей ",
+    949489726,
+    false
+   ],
+   [
+    "@ Данил Доника",
+    1034582836,
+    false
+   ],
+   [
+    "@ Александр Шильдяев",
+    1689207815,
+    false
+   ],
+   [
+    "@VladS_19 Влад Садаков",
+    103881728,
+    false
+   ],
+   [
+    "@EmelyaMSK Emelponk ",
+    1145943990,
+    false
+   ],
+   [
+    "@mmmmitya Дмитрий ",
+    750074947,
+    false
+   ],
+   [
+    "@Dmitrii1111 Dmitri Dmitri",
+    229522291,
+    false
+   ],
+   [
+    "@arturfather СТОМАТОЛОГИЯ ",
+    527520543,
+    false
+   ]
+  ],
+  "price": "Бесплатно",
+  "reserved_players": [],
+  "status": "new",
+  "time": "10:00"
+ },
+ {
+  "date": "05.10.2024",
+  "desc": "05.10 СБ, 10:00, 📍Школа 1371 🏫",
+  "duration_mins": "120",
+  "id": 4,
+  "location": "Школа 1371 🏫",
+  "max_players": 15,
+  "max_reservations": 5,
+  "players": [
+   [
+    "@arturfather СТОМАТОЛОГИЯ ",
+    527520543,
+    false
+   ],
+   [
+    "@NDI1508 Дима ",
+    1400275753,
+    false
+   ],
+   [
+    "@nikolai199524 Николай Кабанов",
+    43396551,
+    false
+   ],
+   [
+    "@Aitov Аитов ",
+    121282630,
+    false
+   ],
+   [
+    "@SergeyOdecca Сергей Мулык",
+    503031943,
+    false
+   ],
+   [
+    "@seregaogel Sergei ",
+    312960376,
+    false
+   ],
+   [
+    "@Vs5GRe7 Max ",
+    274691421,
+    false
+   ],
+   [
+    "@Andrei_Aleksandrovich_199 Андрей ",
+    1633429694,
+    false
+   ],
+   [
+    "@El_ToRo_O 🤔 Эл 🍀 ",
+    530802196,
+    false
+   ],
+   [
+    "@Muzchin Neon ",
+    2103116788,
+    false
+   ],
+   [
+    "@Andreeeeu Andreu Andreeeu",
+    231486663,
+    false
+   ],
+   [
+    "@mikhail_z1 Mikhail Z",
+    349383956,
+    false
+   ],
+   [
+    "@mmmmitya Дмитрий ",
+    750074947,
+    false
+   ],
+   [
+    "@RVmoskva Роман ",
+    993887637,
+    false
+   ],
+   [
+    "@Muzchin Neon ",
+    2103116788,
+    false
+   ]
+  ],
+  "price": "Бесплатно",
+  "reserved_players": [
+   [
+    "@ Dr. Mowgli 🩻🩺 ",
+    960644859,
+    false
+   ],
+   [
+    "@apetnak Апетнак Антонян",
+    1230491638,
+    false
+   ]
+  ],
+  "status": "new",
+  "time": "10:00"
+ },
+ {
+  "date": "06.10.2024",
+  "desc": "06.10 ВС, 10:00, 📍Школа 1371 🏫",
+  "duration_mins": "120",
+  "id": 5,
+  "location": "Школа 1371 🏫",
+  "max_players": 15,
+  "max_reservations": 5,
+  "players": [
+   [
+    "@alexkuzn4 Александр Кузнецов",
+    612342662,
+    false
+   ],
+   [
+    "@ Александр Шильдяев",
+    1689207815,
+    false
+   ],
+   [
+    "@ Дмитрий Гирин",
+    482048096,
+    false
+   ],
+   [
+    "@brussrf Сергей Борисов",
+    6271266217,
+    false
+   ],
+   [
+    "@ma7rix 💭Invest ",
+    131033115,
+    false
+   ],
+   [
+    "@mikhail_z1 Mikhail Z",
+    349383956,
+    false
+   ],
+   [
+    "@aaaddd_8 Андрей ",
+    949489726,
+    false
+   ],
+   [
+    "@d_gavrilow Дмитрий ",
+    250307799,
+    false
+   ],
+   [
+    "@El_ToRo_O 🤔 Эл 🍀 ",
+    530802196,
+    false
+   ],
+   [
+    "@apetnak Апетнак Антонян",
+    1230491638,
+    false
+   ],
+   [
+    "@ka_morozov Kirill ",
+    530606154,
+    false
+   ],
+   [
+    "@Andrei_Aleksandrovich_199 Андрей ",
+    1633429694,
+    false
+   ],
+   [
+    "@Muzchin Neon ",
+    2103116788,
+    false
+   ],
+   [
+    "@SergeyOdecca Сергей Мулык",
+    503031943,
+    false
+   ]
+  ],
+  "price": "Бесплатно",
+  "reserved_players": [],
+  "status": "new",
+  "time": "10:00"
+ },
+ {
+  "date": "12.10.2024",
+  "desc": "12.10 СБ, 10:00, 📍Школа 1371 🏫",
+  "duration_mins": "120",
+  "id": 6,
+  "location": "Школа 1371 🏫",
+  "max_players": 18,
+  "max_reservations": 5,
+  "players": [
+   [
+    "@arturfather СТОМАТОЛОГИЯ ",
+    527520543,
+    false
+   ],
+   [
+    "@ma7rix 💭Invest ",
+    131033115,
+    false
+   ],
+   [
+    "@apetnak Апетнак Антонян",
+    1230491638,
+    false
+   ],
+   [
+    "@nikolai199524 Николай Кабанов",
+    43396551,
+    false
+   ],
+   [
+    "@ ДеМоН ",
+    719359927,
+    false
+   ],
+   [
+    "@Aitov Аитов ",
+    121282630,
+    false
+   ],
+   [
+    "@Andreeeeu Andreu Andreeeu",
+    231486663,
+    false
+   ],
+   [
+    "@seregaogel Sergei ",
+    312960376,
+    false
+   ],
+   [
+    "@ka_morozov Kirill ",
+    530606154,
+    false
+   ],
+   [
+    "@weak12q weak12q ",
+    794729821,
+    false
+   ],
+   [
+    "@Andrei_Aleksandrovich_199 Андрей ",
+    1633429694,
+    false
+   ],
+   [
+    "@SergeyOdecca Сергей Мулык",
+    503031943,
+    false
+   ],
+   [
+    "@mikhail_z1 Mikhail Z",
+    349383956,
+    false
+   ],
+   [
+    "@RVmoskva Роман ",
+    993887637,
+    false
+   ],
+   [
+    "@GAALLLLL Александр Галкин",
+    180881211,
+    false
+   ],
+   [
+    "@Tredcryp Макс ",
+    5565323544,
+    false
+   ],
+   [
+    "@ Дмитрий Валов",
+    1844028933,
+    false
+   ]
+  ],
+  "price": "Бесплатно",
+  "reserved_players": [],
+  "status": "new",
+  "time": "10:00"
+ },
+ {
+  "date": "13.10.2024",
+  "desc": "13.10 ВС, 10:00, 📍Школа 1371 🏫",
+  "duration_mins": "120",
+  "id": 7,
+  "location": "Школа 1371 🏫",
+  "max_players": 18,
+  "max_reservations": 5,
+  "players": [
+   [
+    "@ma7rix 💭Invest ",
+    131033115,
+    false
+   ],
+   [
+    "@apetnak Апетнак Антонян",
+    1230491638,
+    false
+   ],
+   [
+    "@seregaogel Sergei ",
+    312960376,
+    false
+   ],
+   [
+    "@SergeyOdecca Сергей Мулык",
+    503031943,
+    false
+   ],
+   [
+    "@alexkuzn4 Александр Кузнецов",
+    612342662,
+    false
+   ],
+   [
+    "@El_ToRo_O 🤔 Эл 🍀 ",
+    530802196,
+    false
+   ],
+   [
+    "@aaaddd_8 Андрей ",
+    949489726,
+    false
+   ],
+   [
+    "@RVmoskva Роман ",
+    993887637,
+    false
+   ],
+   [
+    "@Andrei_Aleksandrovich_199 Андрей ",
+    1633429694,
+    false
+   ]
+  ],
+  "price": "Бесплатно",
+  "reserved_players": [],
+  "status": "new",
+  "time": "10:00"
+ },
+ {
+  "date": "19.10.2024",
+  "desc": "19.10 СБ, 10:00, 📍Школа 1371 🏫",
+  "duration_mins": "120",
+  "id": 8,
+  "location": "Школа 1371 🏫",
+  "max_players": 18,
+  "max_reservations": 5,
+  "players": [
+   [
+    "@nikolai199524 Николай Кабанов",
+    43396551,
+    false
+   ],
+   [
+    "@El_ToRo_O 🤔 Эл 🍀 ",
+    530802196,
+    false
+   ],
+   [
+    "@SergeyOdecca Сергей Мулык",
+    503031943,
+    false
+   ],
+   [
+    "@weak12q weak12q ",
+    794729821,
+    false
+   ],
+   [
+    "@apetnak Апетнак Антонян",
+    1230491638,
+    false
+   ],
+   [
+    "@Andrei_Aleksandrovich_199 Андрей ",
+    1633429694,
+    false
+   ],
+   [
+    "@Muzchin Neon ",
+    2103116788,
+    false
+   ],
+   [
+    "@seregaogel Sergei ",
+    312960376,
+    false
+   ],
+   [
+    "@mikhail_z1 Mikhail Z",
+    349383956,
+    false
+   ],
+   [
+    "@VadimKholodnov_44 Vadim  ",
+    2126523995,
+    false
+   ],
+   [
+    "@arturfather СТОМАТОЛОГИЯ ",
+    527520543,
+    false
+   ],
+   [
+    "@ma7rix 💭Invest ",
+    131033115,
+    false
+   ],
+   [
+    "@Dmitrii1111 Dmitri Dmitri",
+    229522291,
+    false
+   ]
+  ],
+  "price": "Бесплатно",
+  "reserved_players": [],
+  "status": "new",
+  "time": "10:00"
+ },
+ {
+  "date": "20.10.2024",
+  "desc": "20.10 ВС, 10:00, 📍Школа 1371 🏫",
+  "duration_mins": "120",
+  "id": 9,
+  "location": "Школа 1371 🏫",
+  "max_players": 18,
+  "max_reservations": 5,
+  "players": [
+   [
+    "@El_ToRo_O 🤔 Эл 🍀 ",
+    530802196,
+    false
+   ],
+   [
+    "@SergeyOdecca Сергей Мулык",
+    503031943,
+    false
+   ],
+   [
+    "@weak12q weak12q ",
+    794729821,
+    false
+   ],
+   [
+    "@alexkuzn4 Александр Кузнецов",
+    612342662,
+    false
+   ],
+   [
+    "@baha_hak Баха ",
+    270718852,
+    false
+   ],
+   [
+    "@ma7rix 💭Invest ",
+    131033115,
+    false
+   ],
+   [
+    "@ma7rix 💭Invest ",
+    131033115,
+    false
+   ],
+   [
+    "@apetnak Апетнак ",
+    1230491638,
+    false
+   ],
+   [
+    "@EmelyaMSK Emelponk ",
+    1145943990,
+    false
+   ]
+  ],
+  "price": "Бесплатно",
+  "reserved_players": [],
+  "status": "new",
+  "time": "10:00"
+ },
+ {
+  "date": "26.10.2024",
+  "desc": "26.10 СБ, 10:00, 📍Школа 1371 🏫",
+  "duration_mins": "120",
+  "id": 10,
+  "location": "Школа 1371 🏫",
+  "max_players": 18,
+  "max_reservations": 5,
+  "players": [
+   [
+    "@nikolai199524 Николай Кабанов",
+    43396551,
+    false
+   ],
+   [
+    "@apetnak Апетнак ",
+    1230491638,
+    false
+   ],
+   [
+    "@weak12q Максим ",
+    794729821,
+    false
+   ],
+   [
+    "@Muzchin Neon ",
+    2103116788,
+    false
+   ],
+   [
+    "@ma7rix 💭Invest ",
+    131033115,
+    false
+   ],
+   [
+    "@El_ToRo_O 🤔 Эл 🍀 ",
+    530802196,
+    false
+   ],
+   [
+    "@caulfield_player Holden Caulfield ",
+    1767317901,
+    false
+   ],
+   [
+    "@SergeyOdecca Сергей Мулык",
+    503031943,
+    false
+   ],
+   [
+    "@sontiago Sergey ",
+    282991915,
+    false
+   ],
+   [
+    "@seregaogel Sergei ",
+    312960376,
+    false
+   ],
+   [
+    "@EmelyaMSK Emelponk ",
+    1145943990,
+    false
+   ],
+   [
+    "@Vs5GRe7 Max ",
+    274691421,
+    false
+   ]
+  ],
+  "price": "Бесплатно",
+  "reserved_players": [],
+  "status": "new",
+  "time": "10:00"
+ },
+ {
+  "date": "27.10.2024",
+  "desc": "27.10 ВС, 10:00, 📍Школа 1371 🏫",
+  "duration_mins": "120",
+  "id": 11,
+  "location": "Школа 1371 🏫",
+  "max_players": 18,
+  "max_reservations": 5,
+  "players": [
+   [
+    "@weak12q Максим ",
+    794729821,
+    false
+   ],
+   [
+    "@ma7rix 💭Invest ",
+    131033115,
+    false
+   ],
+   [
+    "@SergeyOdecca Сергей Мулык",
+    503031943,
+    false
+   ],
+   [
+    "@GAALLLLL Александр Галкин",
+    180881211,
+    false
+   ],
+   [
+    "@ Данил Доника",
+    1034582836,
+    false
+   ],
+   [
+    "@EmelyaMSK Emelponk ",
+    1145943990,
+    false
+   ],
+   [
+    "@seregaogel Sergei ",
+    312960376,
+    false
+   ]
+  ],
+  "price": "Бесплатно",
+  "reserved_players": [],
+  "status": "new",
+  "time": "10:00"
+ }
+]
