@@ -1,2 +1,8 @@
 #env
 venv_tt/*
+
+#
+logs/*
+
+#json_data
+json_data/*
