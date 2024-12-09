@@ -1,42 +1,48 @@
 [
  {
-  "date": "31.10.2024",
-  "desc": "31.10 ЧТ, 20:00, 📍ГБУ №93",
+  "date": "14.12.2024",
+  "desc": "14.12 СБ, 19:00, 📍Одинцово (40-Love)",
   "duration_mins": "120",
-  "id": 2,
-  "location": "ГБУ №93",
-  "max_players": 20,
-  "max_reservations": 5,
+  "id": 3,
+  "location": "Одинцово (40-Love)",
+  "max_players": 12,
+  "max_reservations": 8,
   "players": [
    [
-    "@aleksandr_gushchin Aleksandr Gushchin",
-    510267474,
+    "@Vivat_Crescat_Floreat Holden Caulfield",
+    1767317901,
     false
    ],
    [
-    "@dmitrymp3 Dmitry ",
-    156330505,
+    "@lissTikitikitiki Alina Davydenko 💖🫧",
+    987603602,
     false
    ],
    [
-    "@arturfather СТОМАТОЛОГИЯ ",
-    527520543,
+    "@aflpp Ruben ",
+    383960182,
     false
    ],
    [
-    "@mkpr0 Mikhail Proskoryakov",
-    300316017,
+    "@TheDmitryQ DMITRY ",
+    289048976,
     false
    ],
    [
-    "@Evgenalex Evgenalex ",
-    1021704917,
+    "@alromanova Alina M ",
+    247670753,
+    false
+   ],
+   [
+    "@alromanova Alina M ",
+    247670753,
     false
    ]
   ],
-  "price": "700руб/час/стол",
+  "price": "1100₽/чел",
   "reserved_players": [],
   "status": "new",
-  "time": "20:00"
+  "time": "19:00",
+  "type": "b"
  }
 ]

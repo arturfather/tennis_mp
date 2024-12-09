@@ -4,7 +4,7 @@ from datetime import datetime
 from telebot import types
 from jsons_handlers.jsons_handlers import json_reader, json_writer
 
-ENV = 'UAT'
+ENV = 'PROD'
 
 
 # static files/variable difinition
@@ -77,10 +77,11 @@ def games_extract(message, desc_input_to_games):
     maxrsrv = game_data['max_reservations']
     dur = game_data['duration_mins']
     sts = game_data['status']
+    typeID = '🏓 Настольный теннис 🏓' if game_data['type'] == 's' else '🎾 Большой теннис 🎾'
 
     appl_list_main_msg = (
         f'<b>🗓{format_date1(dateID)} 🕖 {timeID}⏳{dur}мин </b>\n'
-        f'<u>🏓 Настольный теннис 🏓</u>\n\n'
+        f'<u>{typeID}</u>\n\n'
         f'📍 {locationID}\n'
         f'&#128176; Стоимость: {priceID}\n'
         f'&#128179; Оплата только безнал\n'
@@ -98,7 +99,6 @@ def games_extract(message, desc_input_to_games):
     # n &  # 9989; - оплачено
 
     text_appl_err3 = '<b>К сожалению уже записано максимальное количество игроков в основу (' + str(maxpl) + ') и резерв (' + str(maxrsrv) + ') &#128532;</b>\n_______________________'
-
     return gms_json_data, game_data, gmid, gmdesc, dateID, timeID, priceID, locationID, pl_IDs, rpl_IDs, players_list, res_pl_list, maxpl, maxrsrv, dur, sts, appl_list_main_msg, text_appl_err3
 
 
@@ -227,7 +227,7 @@ user_contexts = {}
 
 repl_txt1 = (
     f'<b>ℹ️ Общая информация</b> \n \n'
-    f'1. Собираемся и играем в настольный теннис (на данный момент ГБУ№93, м. Крылатское\n\n'
+    f'1. Собираемся и играем в настольный и большой теннис на разных площадках Москвы\n\n'
     f'2. Возраст: 14+ \n \n'
     f'3. Уровень - любой. Рады всем :) \n \n'
     f'4. Стоимость: 700₽/час (за один стол)\n\n'
@@ -246,15 +246,16 @@ repl_txt3 = (
     f'📍 <a href="https://yandex.ru/maps/org/gbu_sportivnaya_shkola_93_na_mozhayke_otdeleniye_nastolnogo_tennisa/1114209373">Месторасположение комплекса</a>\n\n'
     f'Большое количество профессиональных столов, душевые, переодевалки\n\n'
     f'  =========================\n\n'
-    # f'<b>➡️ ТЦ Капитолий</b> ️\n \n'
-    # f'Парковка на территории ТЦ Капитолий (бесплатная). \n'
-    # f'📍 <a href="https://yandex.ru/maps/-/CDaCeNmh">Месторасположение парковки и ТЦ</a>\n\n'
-    # f'4 больших площадки, мягкий паркет, душевые, переодевалки\n \n'
-    # f'  =========================\n\n'
-    # f'<b>➡️ 2х2 team</b> - <i>текущая локация пляжный волейбол</i> ️\n \n'
-    # f'Парковка вдоль улицы Лыковская (бесплатно). \n'
-    # f'📍 <a href="https://yandex.ru/maps/-/CDFuRBla">Месторасположение парковки и площадок</a>\n\n'
-    # f'6 кортов, хорошее освещение, подогреваемый песок, душевые, переодевалки\n\n'
+    f'<b>➡️ 40-Love</b> - <i>локация большой теннис Одинцово</i> ️\n \n'
+    f'Парковка у здания спорт комплекса (бесплатная)\n'
+    f'📍 <a href="https://yandex.ru/maps/-/CHEEnJ8u">Месторасположение комплекса</a>\n\n'
+    f'4 корта hard, душевые, переодевалки\n\n'
+    f'  =========================\n\n'
+    f'<b>➡️ Парк Янтарь</b> - <i>локация большой теннис Строгино</i> ️\n \n'
+    f'Парковка у здания спорт комплекса (бесплатная)\n'
+    f'📍 <a href="https://yandex.ru/maps/-/CHEEnR99">Месторасположение комплекса</a>\n\n'
+    f'6 кортов hard, душевые, переодевалки\n\n'
+    f'  =========================\n\n'
 )
 
 repl_txt4 = None
@@ -562,11 +563,11 @@ def start_handler(message):
 # new game handler
 def add_game_handler(message):
     print('------ENTERED TO ADD_GAME_HANDLER')
-    pattern = r'add\n(\d{2}\.\d{2}\.\d{4})\n(\d{2}:\d{2})\n(\d{2,3})\n(\d{1,2})\n(\d{1})\n(.{0,20})\n(.{0,25})$'
+    pattern = r'add\n(\d{2}\.\d{2}\.\d{4})\n(\d{2}:\d{2})\n(\d{2,3})\n(\d{1,2})\n(\d{1})\n(.{0,20})\n(.{0,25})\n(s|b)$'
     match = re.match(pattern, message.text)
 
     if match:
-        new_dt, new_tm, new_dur, new_max_players, new_max_reservations, new_price, new_loc = match.groups()  # parse data from user input
+        new_dt, new_tm, new_dur, new_max_players, new_max_reservations, new_price, new_loc, new_type = match.groups()  # parse data from user input
         mnth = int(new_dt.split('.')[1])
         yr = (new_dt.split('.')[2])
 
@@ -603,26 +604,24 @@ def add_game_handler(message):
             "price": new_price,
             "reserved_players": [],
             "status": "new",
-            "time": new_tm
+            "time": new_tm,
+            "type": new_type
         }  # define new game object
         gms_json_data.append(new_game)  # append new game to gms_json_data object
         json_writer(gms, gms_json_data)  # write to file
 
         # SCHEDULE JSON UPDATE
         schedule_refresher()
-        if schd[yr] == []:
-            schd[yr][0].append([new_dt, new_tm, "📍" + new_loc, str(format_date1(new_dt)) + ', ' + str(new_tm) + ', 📍' + str(new_loc)])
-        else:
-            schd[yr][mnth - 1].append([new_dt, new_tm, "📍" + new_loc, str(format_date1(new_dt)) + ', ' + str(new_tm) + ', 📍' + str(new_loc)])
+        if schd[yr] == []: schd[yr][0].append([new_dt, new_tm, "📍" + new_loc, str(format_date1(new_dt)) + ', ' + str(new_tm) + ', 📍' + str(new_loc)])
+        else: schd[yr][mnth - 1].append([new_dt, new_tm, "📍" + new_loc, str(format_date1(new_dt)) + ', ' + str(new_tm) + ', 📍' + str(new_loc)])
         json_writer(sch_file, schd)
         schedule_refresher()
 
-        'get data about user-game adder'
+        # 'get data about user-game adder'
         user, username, first_name, last_name, full_name = extract_msg_metadata(message)
 
         bot.send_message(chat_id=message.from_user.id, text=adder_game_succ, parse_mode='HTML', disable_web_page_preview=True)
-        bot.send_message(chat_id=grpID,
-                         text='Пользователь <b>' + full_name + ' (@' + username + ')</b> добавил новую тренировку ✅\n\n 🗓' + format_date1(new_dt) + " 🕖 " + new_tm + ", 📍" + new_loc + '\n\nЗаписаться  / отменить запись - через бота:\n<b>' + bot_name_val + '</b>', parse_mode='HTML', disable_web_page_preview=True)
+        bot.send_message(chat_id=grpID, text='ДОБАВЛЕНА НОВАЯ ТРЕНИРОВКА ✅\n\n 🗓' + format_date1(new_dt) + " 🕖 " + new_tm + ", 📍" + new_loc + '\n\nЗаписаться  / отменить запись - через бота:\n<b>' + bot_name_val + '</b>', parse_mode='HTML', disable_web_page_preview=True)
 
     # error - format not matched
     else:
@@ -659,7 +658,7 @@ def remove_game_handler(message):
 
             bot.send_message(chat_id=message.from_user.id, text=rmv_game_succ, parse_mode='HTML', disable_web_page_preview=True)
             bot.send_message(chat_id=grpID,
-                             text='Пользователь <b>' + full_name + ' (@' + username + ')</b> удалил тренировку ❌\n\n' + gm_to_remove, parse_mode='HTML', disable_web_page_preview=True)
+                             text='ТРЕНИРОВКА УДАЛЕНА ❌\n\n' + gm_to_remove, parse_mode='HTML', disable_web_page_preview=True)
 
     global lock_holder
     lock_holder = None
